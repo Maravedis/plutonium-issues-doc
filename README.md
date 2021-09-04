@@ -26,7 +26,7 @@ Yes! Foundry is slow because the imported actors / items from 5eTools have their
 
     * Imported Tokens / actors / items image issues
         * [Use the mirror sites for images](docs/mirror-images.md)
-        * How to make my game use local images
+        * Use local copies for images
             * [Linux](docs/local-images/us-local-images-linux.md)
             * [Windows](docs/local-images/us-local-images-win.md)
 ## Resources
