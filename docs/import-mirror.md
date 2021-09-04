@@ -1,6 +1,6 @@
 # Set up Plutonium to use a mirror for future imports (Official Mirror)
 
-This is the easiest thing to do, bar [using the extension to fix everything](easiest-way.md).
+This is the easiest thing to do to fix future imports, bar [using the extension to fix everything](easiest-way.md).
 
 ## Open the  plutonium configuration
 
