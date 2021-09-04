@@ -19,7 +19,7 @@ Yes! Foundry is slow because the imported actors / items from 5eTools have their
 * **Recommended** [The easiest way to make everything work with no additional work :tm:](docs/easiest-way.md)
 * Advanced
     * Set up Plutonium to use a mirror for future imports
-        * [official Mirror]() // TODO
+        * [official Mirror](docs/import-mirror.md)
         * Local Mirror // TODO
             * [Linux]()
             * [Windows]()
