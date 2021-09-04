@@ -28,8 +28,7 @@ Yes! Foundry is slow because the imported actors / items from 5eTools have their
         * [Use the mirror sites for images](docs/mirror-images.md)
         * How to make my game use local images
             * [Linux](docs/local-images/us-local-images-linux.md)
-            * [Windows]() // TODO
-
+            * [Windows](docs/local-images/us-local-images-win.md)
 ## Resources
 * [Browser extension to use mirrors](https://github.com/flamewave000/plutonium-mirror) by flameweave000
 * [Macro to change all images path](https://github.com/surged20/foundryvtt-update-image-macro) by surged20
@@ -41,4 +40,4 @@ Yes! Foundry is slow because the imported actors / items from 5eTools have their
 * LordDusk#0001 God-Emperor of the community
 * flameweave000#0001 for writing the browser extension
 * Surge#4715 for general awesomeness and writing the macro tool 
-* Lyra for writing windows stuff (seriously though, thank you, I'm helpless)
+* Lyra214#6717 for writing Windows stuff (seriously though, thank you, I'm helpless)

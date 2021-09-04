@@ -1,5 +1,3 @@
-Disclaimer: English is not my first language, apologies for any mistake.
-
 # Migrate to using local images in plutonium (FoundryVTT)
 
 ## Why?
