@@ -10,18 +10,28 @@ First, English is not my first language. I'll do my best but mistakes will sneak
 
 ## Contents
 
+* [The easiest way to make everything work with no additional work :TM:](docs/easiest-way.md)
+
 * Set up Plutonium to use a mirror
-  * [(Un)official Mirror]()
-  * Local Mirror
+  * [(Un)official Mirror]() // TODO
+  * Local Mirror // TODO
     * [Linux]()
     * [Windows]()
 
 * Imported Tokens / actors / items image issues
-  * How to make my game use the mirror site
-    * [Linux]()
-    * [Windows]()
-  * [How to make my game use local images]()
+  * How to make my game use local images
+    * [Linux](docs/local-images/us-local-images-linux.md)
+    * [Windows]() // TODO
+  * [How to make my game use the mirror site]() // TODO
 
 ## Resources
-* [Macro to change all images path]() by surged20
+* [Browser extension to use mirrors](https://github.com/flamewave000/plutonium-mirror) by flameweave000
+* [Macro to change all images path](https://github.com/surged20/foundryvtt-update-image-macro) by surged20
 * [Unofficial Plutonium Discord]()
+
+
+## Credits
+
+* flameweave000#0001 for writing the browser extension
+* Surge#4715 for general awesomeness and writing the macro tool 
+* Lyra for writing windows stuff (seriously though, thank you, I'm helpless)
